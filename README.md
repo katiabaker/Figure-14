@@ -5,7 +5,7 @@ This repository hosts the data and analysis scripts evaluating the relationship 
 
 # 1. Variables 
 - **Independent Variable:** Total Reporting Score (Categorical integer scale 1-3, measuring explicit indexing of Sex, Age, and Race parameters).
-- **Dependent Variables:**  Standardized Citation Density (Citations per Year Since Publication).
+- **Dependent Variables:**  Standardized Citation Density (Citation counts according to Scopus per Year Since Publication).
 
 # 2. Analysis and Design
 Statistical plotting and data cleaning were performed utilizing the R programming language. Structural layout configurations adhere strictly to academic design constraints:
